@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asdasdasdasd", "asdasdasdasd\asdasdasdasd.csproj", "{3E630EC1-57C5-4BBF-BD23-F31030C9CE6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skibidi", "asdasdasdasd\Skibidi.csproj", "{3E630EC1-57C5-4BBF-BD23-F31030C9CE6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
